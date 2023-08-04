@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<enable-disable-package>
+    <package-disable-enable-criteria package="com.motorola.android.overlay.rtwo.na" default_action="disable">
+        <criteria action="enable" channel="retus"/>
+        <criteria action="enable" channel="retca"/>
+        <criteria action="enable" channel="boost"/>
+        <criteria action="enable" channel="spectrum"/>
+        <criteria action="enable" channel="cc"/>
+    </package-disable-enable-criteria>
+</enable-disable-package>
