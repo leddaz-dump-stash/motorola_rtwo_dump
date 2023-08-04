@@ -1,0 +1,14 @@
+# user 13 T1TR33.43-20-28 8fa75 release-keys
+- manufacturer: motorola
+- platform: kalama
+- codename: rtwo
+- flavor: user
+- release: 13
+- id: T1TR33.43-20-28
+- incremental: 8fa75
+- tags: release-keys
+- fingerprint: motorola/rtwo/rtwo:13/T1TR33.43-20-28/8fa75:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-13-T1TR33.43-20-28-8fa75-release-keys
+- repo: motorola_rtwo_dump

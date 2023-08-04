@@ -1,0 +1,9 @@
+product/app/WebViewGoogle/WebViewGoogle.apk.xz
+product/priv-app/MotCamera4/MotCamera4.apk.xz
+product/priv-app/Velvet/Velvet.apk.xz
+product/priv-app/AiServices/AiServices.apk.xz
+product/priv-app/Messages/Messages.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+system_ext/apex/com.android.vndk.v30.apex.xz
+bootRE/boot.elf.xz
+recovery.img.xz
